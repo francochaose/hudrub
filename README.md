@@ -2,7 +2,7 @@
   <a href="https://github.com/Albresky/HDU-Library-Master"><img src="https://s2.loli.net/2023/05/22/3y6dc51NXmabzgj.png" alt="HDU-Library-Master"></a>
 </p>
 <p align="center">
-杭电图书馆每日定时[订座/抢座] start！启动！10.13 10
+杭电图书馆每日定时[订座/抢座] start！启动！10.13 10再次启动！
 </p>
 
 <div align="center">
